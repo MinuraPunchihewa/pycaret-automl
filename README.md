@@ -22,6 +22,12 @@ Create a Conda environment with `jupyter`, `pandas` and `PyCaret`,
 conda create -n pycaret_automl python jupyter pandas pycaret
 ```
 
+Activate the Conda enviornent,
+
+```
+conda activate pycaret_automl
+```
+
 Launch Jupyter Notebook,
 
 ```
